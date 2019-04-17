@@ -1,2 +1,3 @@
-# monitoring_ml_apps_presentation
-Monitoring ML applications in production
+# Monitoring ML applications in production
+
+Overview of various monitoring tools and strategies with the focus on applications using Machine Learning at their core.
