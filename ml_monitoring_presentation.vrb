@@ -1,6 +1,0 @@
-\frametitle{Instrumentation \& metrics: Statsd vs Prometheus}
-\begin{itemize}
-		\item{Simplicity and low overhead \rightarrow Statsd}
-		\item{Large number of service instances \rightarrow Prometheus} % microservices, containers
-		\item{from Statsd to Prometheus: \url{https://github.com/prometheus/statsd_exporter}}
-	\end{itemize}

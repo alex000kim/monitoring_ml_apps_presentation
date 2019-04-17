@@ -5,5 +5,5 @@
 *.snm
 *.synctex.gz
 *.toc
-*.pdf
+*.vrb
 .ipynb_checkpoints/
